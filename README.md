@@ -16,15 +16,15 @@ This folder contains the ASA job queries and functions that are created in the c
 
 This folder contains the source code for the Azure Function that is used to process IoT Hub data in a demo in the course.
 
+## iot-edge
+
+This folder contains material used in the IoT Edge demo in the course.
+
 ## References and documentation
 
 #### The demo Azure IoT sample solution from Microsoft (to generate sample data):
 
 https://github.com/Azure-Samples/azure-iot-samples-csharp/tree/master/iot-hub/Quickstarts
-
-#### Tutorial: Deploy Azure Stream Analytics as an IoT Edge module:
-
-https://docs.microsoft.com/en-us/azure/iot-edge/tutorial-deploy-stream-analytics
 
 #### Stream Analytics Query Language Reference:
 
@@ -41,3 +41,7 @@ https://docs.microsoft.com/en-us/azure/stream-analytics/stream-analytics-javascr
 #### Integrate Azure Stream Analytics with Azure Machine Learning:
 
 https://docs.microsoft.com/en-us/azure/stream-analytics/machine-learning-udf
+
+#### Tutorial: Deploy Azure Stream Analytics as an IoT Edge module:
+
+https://docs.microsoft.com/en-us/azure/iot-edge/tutorial-deploy-stream-analytics
