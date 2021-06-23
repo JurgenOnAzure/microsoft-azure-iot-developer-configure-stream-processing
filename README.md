@@ -46,6 +46,6 @@ https://docs.microsoft.com/en-us/azure/stream-analytics/machine-learning-udf
 
 https://docs.microsoft.com/en-us/azure/iot-edge/tutorial-deploy-stream-analytics
 
-### Install and manage Azure IoT Edge with Windows containers
+#### Install and manage Azure IoT Edge with Windows containers
 
 https://docs.microsoft.com/en-us/azure/iot-edge/how-to-install-iot-edge-windows-on-windows
