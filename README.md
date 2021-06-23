@@ -18,7 +18,7 @@ This folder contains the source code for the Azure Function that is used to proc
 
 ## iot-edge
 
-This folder contains material used in the IoT Edge demo in the course.
+This folder contains the PowerShell commands used to configure a Virtual Machine as an IoT Edge device in a demo in the course.
 
 ## References and documentation
 
